@@ -1,4 +1,6 @@
-# Assessing Your Responsive Web Design and Preprocessing Learning
+# 0049_lsw2e_sprint_challenge_responsive_less
+
+## Assessing Your Responsive Web Design and Preprocessing Learning
 
 You will be building a website from scratch using all your responsive web design and preprocessing skills from the sprint.  The theme of this challenge is _Spacewalkers Magazine_.  Spacewalkers has asked you to build a small proof of concept website for their marketing team.  They have provided designs for both desktop and phone views.
 
